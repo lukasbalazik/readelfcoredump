@@ -1,6 +1,6 @@
-# ReadElf
+# ReadElfCoreDump
 
-ReadElf is program for reading coredumps and printing coredump condition like state of registers
+ReadElfCoreDump is program for reading coredumps and printing coredump condition like state of registers
 
 
 ### Directory tree
